@@ -51,7 +51,7 @@ Ready to dive deeper into our project's details? Discover the full story, in-dep
 TEMPO is an Edge device. in the world of IoT, An IoT edge device is internet-enabled and typically comprised of sensors. These sensors collect data and then pass it on to the processing unit. And in this project my router and mobile Hotspot act as a gateway.
 
 <div align="center"> 
-  <img src="https://github.com/cifertech/wardriver3000/assets/62047147/69b472f7-670b-4f82-a646-3a54990e43db" alt="screenshot" width="Auto" height="Auto" />
+  <img src="https://github.com/cifertech/tempo/assets/62047147/538c7139-4074-4006-8c99-926f2dbd696d" alt="screenshot" width="Auto" height="Auto" />
 </div>
 
 <be>
