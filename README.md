@@ -28,14 +28,15 @@
  
 <br />
 
+<be>
 
 ## 📖 Explore the Full Documentation
 
 Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/wardriver3000-build-your-own-wardriving-machine/). Click the link and explore further!
 
-## ⚠ Future Changes
-- The provided PCB design has its flaws, hopefully, in the future, I will design a better model, but for now, it works.
 <be>
+
+## ⚠ Future Changes
 
 - Fixing existing bugs
 - Take advantage of external antennas
@@ -43,7 +44,8 @@ Ready to dive deeper into our project's details? Discover the full story, in-dep
 - Utilization of the SIM800L cellular module for cellular connectivity
 - Implementation of data logging functionality to track data and system errors for future analysis.
   
-
+<be>
+    
 <!-- About the Project -->
 ## :star2: About the Project
 TEMPO is an Edge device. in the world of IoT, An IoT edge device is internet-enabled and typically comprised of sensors. These sensors collect data and then pass it on to the processing unit. And in this project my router and mobile Hotspot act as a gateway.
@@ -52,6 +54,7 @@ TEMPO is an Edge device. in the world of IoT, An IoT edge device is internet-ena
   <img src="https://github.com/cifertech/wardriver3000/assets/62047147/69b472f7-670b-4f82-a646-3a54990e43db" alt="screenshot" width="Auto" height="Auto" />
 </div>
 
+<be>
 
 <!-- Features -->
 ### :dart: Features
@@ -61,13 +64,14 @@ TEMPO is an Edge device. in the world of IoT, An IoT edge device is internet-ena
 - Integration of the ESP32 Wroom microcontroller for reliable performance and versatility.
 - Integration of the DHT22 sensor for accurate temperature and humidity monitoring.
 
-
+<be>
 
 <!-- License --> 
 ## :warning: License
  
 Distributed under the MIT License. See LICENSE.txt for more information.
 
+<be>
 
 <!-- Contact -->
 ## :handshake: Contact 
@@ -76,7 +80,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 CiferTech - [@twitter](https://twitter.com/techcifer) - CiferTech@gmali.com
 
-Project Link: [https://github.com/cifertech/wardriver3000](https://github.com/cifertech/wardriver3000)
+Project Link: [https://github.com/cifertech/tempo](https://github.com/cifertech/tempo)
 
  
  
