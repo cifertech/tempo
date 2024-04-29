@@ -32,7 +32,7 @@
 
 ## 📖 Explore the Full Documentation
 
-Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/wardriver3000-build-your-own-wardriving-machine/). Click the link and explore further!
+Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/tempo-your-next-level-iot-edge-device/). Click the link and explore further!
 
 <be>
 
